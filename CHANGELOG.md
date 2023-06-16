@@ -1,5 +1,11 @@
 # github-actions-testing
 
+## 0.1.0
+
+### Minor Changes
+
+- changes to github workflow
+
 ## 0.0.2
 
 ### Patch Changes
