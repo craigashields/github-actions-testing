@@ -1,16 +1,26 @@
 {
   "name": "github-actions-testing",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "testing github actions and changesets",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",  
   "scripts": {
     "dev": "vitest",
     "test": "vitest run",
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "lint": "tsc"
   },
+  "keywords": [
+    "workflows",
+    "typescript"
+  ],
   "author": "Craig Shields",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigashields/github-actions-testing.git"
+  },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
     "tsup": "^6.7.0",
