@@ -1,5 +1,11 @@
 # github-actions-testing
 
+## 0.2.1
+
+### Patch Changes
+
+- changed package name
+
 ## 0.2.0
 
 ### Minor Changes
