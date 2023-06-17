@@ -1,5 +1,11 @@
 # github-actions-testing
 
+## 0.2.2
+
+### Patch Changes
+
+- e155469: testing workflow_run
+
 ## 0.2.1
 
 ### Patch Changes

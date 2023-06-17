@@ -1,6 +1,6 @@
 {
   "name": "cs-github-actions-testing",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "testing github actions and changesets",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
